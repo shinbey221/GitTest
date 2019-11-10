@@ -1,4 +1,7 @@
 master text
 update
+<<<<<<< HEAD
 add text
+=======
+>>>>>>> 6390a05f50bbeb62793b8d1c406ff4dba6213868
 branch-a
